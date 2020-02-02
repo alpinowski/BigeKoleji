@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MAPS.dll.config
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MAPS.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MAPS.pdb
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.CORE.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MODEL.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.CORE.pdb
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.CORE.dll.config
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MODEL.pdb
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\BilgeKoleji.MODEL.dll.config
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\obj\Debug\BilgeKoleji.MAPS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\obj\Debug\BilgeKoleji.MAPS.csproj.CopyComplete
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\obj\Debug\BilgeKoleji.MAPS.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.MAPS\obj\Debug\BilgeKoleji.MAPS.pdb

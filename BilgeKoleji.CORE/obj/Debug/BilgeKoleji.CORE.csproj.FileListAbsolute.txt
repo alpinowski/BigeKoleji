@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\BilgeKoleji.CORE.dll.config
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\BilgeKoleji.CORE.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\BilgeKoleji.CORE.pdb
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\obj\Debug\BilgeKoleji.CORE.csproj.CopyComplete
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\obj\Debug\BilgeKoleji.CORE.dll
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\obj\Debug\BilgeKoleji.CORE.pdb
+C:\Users\user\source\repos\BigeKoleji\BilgeKoleji.CORE\obj\Debug\BilgeKoleji.CORE.csprojAssemblyReference.cache
